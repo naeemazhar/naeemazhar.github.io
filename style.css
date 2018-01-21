@@ -2,6 +2,10 @@ p{
 color: black; font-size: 14px; font-family: "Arial", Times, serif;margin-left: 150px;
 }
 body {
+    width: 300px;
+    border: 25px solid green;
+    padding: 25px;
+    margin: 25px;
     background-color: lightblue;
     margin-top: 100px;
     margin-bottom: 100px;
