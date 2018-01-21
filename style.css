@@ -3,4 +3,8 @@ color: black; font-size: 14px; font-family: "Arial", Times, serif;
 }
 body {
     background-color: lightblue;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 150px;
 }
